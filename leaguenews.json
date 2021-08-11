@@ -39,7 +39,7 @@
 
 
 
-},
+
 
 {
             "name": "ManchesterUnited vs Leeds",
@@ -52,7 +52,7 @@
         },
 
 
-},
+
 
 {
             "name": "Burnley vs Brighton",
@@ -73,7 +73,7 @@
             "categorie":"England| Premier League| 2021/2022 fixtures",
             "studio":"EPL",
             "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-        },
+        }
 
 
     ]
