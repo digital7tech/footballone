@@ -4,17 +4,17 @@
     
     {
       
-      ns:1,
-      title: "Arsenal",
-      snippet:"The best of premier league",
-      url: "http://media.lsu.co.uk/wp-content/uploads/2014/10/labelarticle_1353.jpg"
+      "ns":1,
+      "title": "Arsenal",
+      "snippet":"The best of premier league",
+      "url": "http://media.lsu.co.uk/wp-content/uploads/2014/10/labelarticle_1353.jpg",
     },
      {
       
-      ns:2,
-      title: "United",
-      snippet:"The best of premier league",
-      url: "http://media.lsu.co.uk/wp-content/uploads/2014/10/labelarticle_1353.jpg"
+      "ns":1,
+      "title": "United",
+      "snippet":"The best of premier league",
+      "url": "http://media.lsu.co.uk/wp-content/uploads/2014/10/labelarticle_1353.jpg",
     }
     
     ]
