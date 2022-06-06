@@ -1,80 +1,116 @@
 
-[
-        {
-            "name": "Nitori United 1:0 Olurun United",
-            "description":"",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Sporta | Cricket | Transfers",
-            "studio":"LIQUE 1",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-        },
-        {
-            "name": "Vera United vs Etienne united",
-            "description":"",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Sporta | football | Transfers",
-            "studio":"LIQUE 1",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-        },
 {
-            "name": "Orhuwhorun for all 1:1 Ogori fc",
-            "description":"",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Uefa | Supercup | 2021 fixtures",
-            "studio":"UEFA",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-        },
 
+	"hits": [
+
+
+	
+		
+
+	
+		{
+
+			"user": "Latvia vs Liechtenstein SD",
+			"pageUrl": "http://194.67.196.19:80/hls/101.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Latvia vs Liechtenstein HD(English)",
+			"pageUrl": "http://init.cheches.info/hls/101.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Croatia vs France SD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/O2jtmaod02.flv",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Croatia vs France HD(English)",
+			"pageUrl": "http://d3p8nqsd18nkyg.cloudfront.net/stream/NDU1MA==/1080p.m3u8",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Austria vs Denmark SD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K807.flv",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Austria vs Denmark HD(English)",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K807.flv",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Iceland vs Albania SD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K810.flv",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Iceland vs Albania HD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K810.flv",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Belarus vs Azerbaijan HD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K808.flv",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		{
+
+			"user": "Slovakia vs Kazakhstan HD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K811.flv",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+		
+	
+		{
+
+			"user": "Andorra vs Moldova HD",
+			"pageUrl": "https://cdn1-sports.gxpeihuchuang.com/live/K802.flv",
+			"type": "Europe - UEFA Nations League ⚽️ ",
+			"webFormatUrl": "https://assets.uefa.tv.uicentric.net/images/tiles/UNL_circle_web_medium.png"
+		},
+
+
+
+		
+
+			
 {
-            "name": "Sesame but 1:0 Serome",
-            "description":"",
-            "Rating": "10.0",
-            "episode": 500,
-            "categorie":"England| Premier League| 2021/2022 fixtures",
-            "studio":"EPL",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-        },
+
+			"user": "Football",
+			"pageUrl": "http://217.74.16.155:8082/local/ar-s/B-S-pre-1-stop/tracks-v1a1/mono.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		}
+	]
 
 
-
-
-
-{
-            "name": "ManchesterUnited vs Leeds",
-            "description":"",
-            "Rating": "10.0",
-            "episode": 500,
-            "categorie":"England| Premier League| 2021/2022 fixtures",
-            "studio":"EPL",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-        },
-
-
-
-
-{
-            "name": "Burnley vs Brighton",
-            "description":"",
-            "Rating": "10.0",
-            "episode": 500,
-            "categorie":"England| Premier League| 2021/2022 fixtures",
-            "studio":"EPL",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-        },
-
-
-{
-            "name": "Chelsea vs Crystal Palace",
-            "description":"",
-            "Rating": "10.0",
-            "episode": 500,
-            "categorie":"England| Premier League| 2021/2022 fixtures",
-            "studio":"EPL",
-            "img": "https://myanimelist.cdn-dena.com/images/anime/5/17407.jpg"
-        }
-
-
-    ]
+}
