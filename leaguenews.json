@@ -1,80 +1,25 @@
-[
-        {
-            "name": "Lionel messi signs for PSG",
-            "description":"",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Sporta | football | Transfers",
-            "studio":"LIQUE 1",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        },
-        {
-            "name": "Lionel messi signs for PSG",
-            "description":"",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Sporta | football | Transfers",
-            "studio":"LIQUE 1",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        },
-{
-            "name": "Chelsea vs Villarreal",
-            "description":"",
-            "Rating": "8.16",
-            "episode": 500,
-            "categorie":"Uefa | Supercup | 2021 fixtures",
-            "studio":"UEFA",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        },
-
-{
-            "name": "Arsenal vs Brentford",
-            "description":"",
-            "Rating": "10.0",
-            "episode": 500,
-            "categorie":"England| Premier League| 2021/2022 fixtures",
-            "studio":"EPL",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        },
-
-
-
-
-
-{
-            "name": "ManchesterUnited vs Leeds",
-            "description":"",
-            "Rating": "10.0",
-            "episode": 500,
-            "categorie":"England| Premier League| 2021/2022 fixtures",
-            "studio":"EPL",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        },
-
-
-
-
-{
-            "name": "Burnley vs Brighton",
-            "description":"",
-            "Rating": "10.0",
-            "episode": 500,
-            "categorie":"England| Premier League| 2021/2022 fixtures",
-            "studio":"EPL",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        },
-
-
-{
-            "name": "Chelsea vs Crystal Palace",
-            "description":"",
-            "Rating": "10.0",
-            "episode": 500,
-            "categorie":"England| Premier League| 2021/2022 fixtures",
-            "studio":"EPL",
-            "img": "https://static.dw.com/image/16392542_303.jpg"
-        }
-
-
-    ]
-
+[{
+		"sessionName": "Guiding unfancied Villarreal to the Champions League semi-finals ought to have been a career highlight for Unai Emery the manager who has taken a team from a town with a smaller population than Clacton-on-Sea to the pinnacle of European football",
+		"sessionimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJq3TLS6nhad-d8MhmLnCRzdbQiewm_8eM5g&usqp=CAU",
+		"sessionMode": "Football news",
+		"sessionTracks": "03/05/2022"
+	},
+	{
+		"sessionName": "Guiding unfancied Villarreal to the Champions League semi-finals ought to have been a career highlight for Unai Emery the manager who has taken a team from a town with a smaller population than Clacton-on-Sea to the pinnacle of European football",
+		"sessionimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJq3TLS6nhad-d8MhmLnCRzdbQiewm_8eM5g&usqp=CAU",
+		"sessionMode": "Football news",
+		"sessionTracks": "03/05/2022"
+	},
+	{
+		"sessionName": "Guiding unfancied Villarreal to the Champions League semi-finals ought to have been a career highlight for Unai Emery the manager who has taken a team from a town with a smaller population than Clacton-on-Sea to the pinnacle of European football",
+		"sessionimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJq3TLS6nhad-d8MhmLnCRzdbQiewm_8eM5g&usqp=CAU",
+		"sessionMode": "Football news",
+		"sessionTracks": "03/05/2022"
+	},
+	{
+		"sessionName": "Guiding unfancied Villarreal to the Champions League semi-finals ought to have been a career highlight for Unai Emery the manager who has taken a team from a town with a smaller population than Clacton-on-Sea to the pinnacle of European football",
+		"sessionimg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJq3TLS6nhad-d8MhmLnCRzdbQiewm_8eM5g&usqp=CAU",
+		"sessionMode": "Football news",
+		"sessionTracks": "03/05/2022"
+	}
+]
