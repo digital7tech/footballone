@@ -1,6 +1,223 @@
 
 
 
+{
+
+	"hits": [
+
+
+
+
+		
+
+
+	{
+
+			"user": "Genoa vs Lazio HD1",
+			"pageUrl": "https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1658904080/ei/sIngYv6-KOeF0_wP4ZOXkAw/ip/5.62.58.183/id/3WeQY7vSgPg.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maxh/2160/maudio/1/spc/lT-KhkJiNvR50YonUVp0XqbBwPfwNs88TfE1S-yWJoNt/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhANb8Q7RV69e0QlysB1L2zGBExK5h0z_8TTdsDIFWrXatAiEA4x0ofA58uIzwpuPQTyAcqcI9M1rQrNLEmuNn24BN_FA%3D/file/index.m3u8",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://footballgroundguide.com/wp-content/uploads/2022/07/Untitled-removebg-preview-2022-07-25T141713.279.png"
+		},
+
+
+	{
+
+			"user": "Wolfsberger AC vs Milan HD",
+			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8 ",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://diggingsports.in/wp-content/uploads/2022/07/WAC-vs-MIL.jpg"
+		},
+		{
+
+			"user": "Numancia vs Atlético Madrid HD",
+			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8 ",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://diggingsports.in/wp-content/uploads/2022/07/Atletico-Madrid.jpg"
+		},
+		{
+
+			"user": "Salzburg vs Liverpool HD1 (English)",
+			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8 ",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i2-prod.liverpoolecho.co.uk/incoming/article18824576.ece/ALTERNATES/s1200/0_salzburgliverpool.jpg"
+		},
+		{
+
+			"user": "Salzburg vs Liverpool HD2",
+			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8 ",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://i2-prod.liverpoolecho.co.uk/incoming/article18824576.ece/ALTERNATES/s1200/0_salzburgliverpool.jpg"
+		},
+		{
+
+			"user": "Southampton vs Monaco HD",
+			"pageUrl": "http://191.96.100.144:8030/T-Sports11/index.m3u8 ",
+			"type": "CLUB FRIENDLIES ⚽️ ",
+			"webFormatUrl": "https://footballwhispers.com/wp-content/uploads/2022/07/Southampton-vs-Monaco.png"
+		},
+
+	{
+
+			"user": "BEIN SPORTS PREMIUM 1",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS PREMIUM 2",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+
+	{
+
+			"user": "BEIN SPORTS PREMIUM 3",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/qqitpaxi7q8jt4c/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+
+	{
+
+			"user": "BEIN SPORTS 1",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/t6465xx7k160e2w/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 2",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/pksonyoqzb9o3mu/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 3",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/zualuomxznpf26s/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+
+	{
+
+			"user": "BEIN SPORTS 4",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/nyx35bwo11lrbm0/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 5",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/35ktguvwb5a55yi/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 6",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": "BEIN SPORTS 7",
+			"pageUrl": "https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgRS3lkbRgEp3e8Ll4ImNqwlAiRXcs6tDdKA&usqp=CAU"
+		},	
+
+	{
+
+			"user": "SPORTS ONE",
+			"pageUrl": "http://138.201.220.51:8030/willow-Extra/index.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		},	
+		{
+
+			"user": "SPORTS TWO",
+			"pageUrl": "http://138.201.220.51:8030/willow-Extra/index.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		},
+
+{
+
+			"user": "FORMULA ONE",
+			"pageUrl": "http://138.201.220.51:8030/sky-f1/index.m3u8",
+			"type": "SPORTS ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		},
+
+
+	{
+
+			"user": "SUPERSPORT EPL",
+			"pageUrl": "http://138.201.220.51:8030/T-Sports/index.m3u8 ",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://www.careersinafrica.com/wp-content/uploads/2013/06/supersport-logo.png"
+		},	
+
+
+	{
+
+			"user": " SPORTS TWO",
+			"pageUrl": "https://cappuccinochill.xyz/hls/ora2.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qt2J5m4jcqpPDOBykLevlcABPIodsIRqHw&usqp=CAU"
+		},	
+
+
+	{
+
+			"user": " SPORTS THREE",
+			"pageUrl": "http://138.201.220.51:8030/pt-/tracks-v1a1/mono.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qt2J5m4jcqpPDOBykLevlcABPIodsIRqHw&usqp=CAU"
+		},	
+
+{
+
+			"user": "Sweeden vs Belgium HD2",
+			"pageUrl": "https://rtmpsrv.speedclick.ps/beIN_Sports1P_complexiptv/tracks-v1a1/mono.m3u8?token=MONITORING",
+			"type": "UEFA WOMEN'S EURO ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxii3khQ01LBRb-dtSCpY3l-ohcWmGhO5CHMewJEvRb3ffs_hnAlhdfB0&s=10"
+		},
+
+		{
+
+			"user": "PTV SPORTS",
+			"pageUrl": "http://138.201.220.51:8030/ptv/index.m3u8",
+			"type": "FOOTBALL ⚽️ ",
+			"webFormatUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvAxqTtRjGUcvl-b3QXH309w2iAM8wHTn3Yw&usqp=CAU"
+		}
+	]
+
+
+}
+
 	
 
 
